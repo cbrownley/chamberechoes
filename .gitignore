@@ -1,0 +1,6 @@
+# Ignore contents of videos folder
+node_modules/**
+videos/**
+transcripts/**
+public/**
+!/.gitignore
